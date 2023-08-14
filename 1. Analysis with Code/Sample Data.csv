@@ -1,0 +1,51 @@
+ID,Start Date,End Date,Site Visits,Site Conversion,Click-through Rate,Bounce Rate,Revenue,Units Sold,Inventory,Impressions,Clicks,Ad Cost,COGS,Margin,Customer Age,Visitor Type,Satisfaction,Spending Score,Shipping Cost,Discount Rate,Market_Share
+1,2023-01-01,2023-01-07,15000,800,80,40,50,350,30,300,1200,500,400,0.32,3.00,Young Adults,Occasional Buyers,Neutral,Low,Free Shipping,0.05
+2,2023-01-08,2023-01-14,16000,840,82,42,51,355,31,305,1250,520,410,0.33,3.10,Adults,Frequent Buyers,Positive,Moderate,Discounts,0.06
+3,2023-01-15,2023-01-21,14500,780,78,38,49,345,29,298,1180,480,390,0.31,2.95,Seniors,Occasional Buyers,Positive,Low,Free Shipping,0.07
+4,2023-01-22,2023-01-28,15500,820,80,41,48,360,32,310,1220,510,400,0.32,3.05,Young Adults,Frequent Buyers,Neutral,High,Discounts,0.08
+5,2023-01-29,2023-02-04,14000,760,76,39,47,340,30,295,1150,470,380,0.30,2.90,Adults,Frequent Buyers,Positive,Moderate,Free Shipping,0.09
+6,2023-02-05,2023-02-11,15000,800,80,40,49,355,31,308,1200,500,390,0.31,3.00,Seniors,Occasional Buyers,Positive,Low,Buy One Get One,0.10
+7,2023-02-12,2023-02-18,16500,860,83,42,50,370,33,320,1270,540,410,0.33,3.15,Adults,Frequent Buyers,Neutral,Moderate,Discounts,0.11
+8,2023-02-19,2023-02-25,14200,770,77,39,48,345,30,298,1180,480,380,0.31,2.95,Young Adults,Occasional Buyers,Positive,High,Free Shipping,0.12
+9,2023-02-26,2023-03-04,15200,810,81,41,49,360,32,308,1220,510,390,0.32,3.05,Seniors,Frequent Buyers,Positive,Moderate,Buy One Get One,0.13
+10,2023-03-05,2023-03-11,13700,750,75,38,47,340,30,290,1150,470,370,0.30,2.90,Adults,Frequent Buyers,Neutral,Low,Discounts,0.14
+11,2023-03-12,2023-03-18,14700,790,79,40,48,355,31,300,1200,500,380,0.31,3.00,Young Adults,Occasional Buyers,Positive,Moderate,Free Shipping,0.15
+12,2023-03-19,2023-03-25,16200,850,84,42,50,370,32,315,1250,530,400,0.32,3.10,Adults,Frequent Buyers,Positive,High,Buy One Get One,0.16
+13,2023-03-26,2023-04-01,13900,760,76,38,46,345,29,298,1180,480,370,0.30,2.95,Seniors,Occasional Buyers,Positive,Low,Discounts,0.17
+14,2023-04-02,2023-04-08,14900,800,80,39,47,360,31,305,1200,500,380,0.31,3.00,Adults,Frequent Buyers,Neutral,Moderate,Free Shipping,0.18
+15,2023-04-09,2023-04-15,13400,730,73,37,45,340,30,290,1150,470,360,0.29,2.90,Young Adults,Occasional Buyers,Positive,High,Discounts,0.19
+16,2023-04-16,2023-04-22,14400,780,78,38,46,355,32,308,1220,510,370,0.30,3.00,Seniors,Frequent Buyers,Positive,Moderate,Buy One Get One,0.20
+17,2023-04-23,2023-04-29,15900,840,82,41,48,370,31,320,1270,530,390,0.32,3.10,Adults,Frequent Buyers,Neutral,Low,Free Shipping,0.21
+18,2023-04-30,2023-05-06,13600,740,74,39,45,345,30,298,1180,490,370,0.30,2.95,Young Adults,Occasional Buyers,Positive,Moderate,Discounts,0.22
+19,2023-05-07,2023-05-13,14600,790,79,40,47,360,32,307,1220,520,380,0.31,3.00,Adults,Frequent Buyers,Positive,High,Free Shipping,0.23
+20,2023-05-14,2023-05-20,13100,720,72,37,44,340,30,288,1150,460,360,0.29,2.90,Seniors,Occasional Buyers,Neutral,Low,Buy One Get One,0.24
+21,2023-05-21,2023-05-27,14100,760,76,38,45,355,31,300,1200,490,370,0.30,3.00,Adults,Frequent Buyers,Positive,Moderate,Discounts,0.25
+22,2023-05-28,2023-06-03,15600,820,81,41,47,370,32,315,1250,520,380,0.31,3.10,Young Adults,Occasional Buyers,Positive,High,Free Shipping,0.26
+23,2023-06-04,2023-06-10,13300,730,73,37,44,345,30,298,1180,480,370,0.30,2.95,Adults,Frequent Buyers,Neutral,Low,Buy One Get One,0.27
+24,2023-06-11,2023-06-17,14300,780,78,38,46,360,31,305,1220,510,380,0.31,3.00,Seniors,Occasional Buyers,Positive,Moderate,Discounts,0.28
+25,2023-06-18,2023-06-24,15800,840,82,42,47,375,33,320,1270,530,390,0.32,3.10,Young Adults,Frequent Buyers,Positive,High,Free Shipping,0.29
+26,2023-06-25,2023-07-01,13500,740,74,39,45,350,30,300,1200,490,370,0.30,2.95,Adults,Occasional Buyers,Neutral,Low,Discounts,0.30
+27,2023-07-02,2023-07-08,14500,790,79,40,46,365,32,310,1250,520,380,0.31,3.00,Seniors,Frequent Buyers,Positive,Moderate,Buy One Get One,0.31
+28,2023-07-09,2023-07-15,16000,860,85,43,48,380,31,320,1300,540,400,0.32,3.20,Adults,Frequent Buyers,Neutral,High,Free Shipping,0.32
+29,2023-07-16,2023-07-22,13700,750,75,37,44,355,30,300,1200,480,370,0.30,2.90,Young Adults,Occasional Buyers,Positive,Moderate,Discounts,0.33
+30,2023-07-23,2023-07-29,14700,800,80,39,46,370,32,310,1250,520,380,0.31,3.00,Adults,Frequent Buyers,Positive,Low,Buy One Get One,0.34
+31,2023-07-30,2023-08-05,16300,860,84,42,49,385,33,328,1300,550,400,0.32,3.20,Seniors,Occasional Buyers,Neutral,Moderate,Free Shipping,0.35
+32,2023-08-06,2023-08-12,14000,770,77,38,45,360,31,305,1220,500,380,0.31,3.00,Adults,Frequent Buyers,Positive,High,Discounts,0.36
+33,2023-08-13,2023-08-19,15000,820,81,40,46,375,32,318,1270,540,390,0.32,3.10,Young Adults,Occasional Buyers,Positive,Low,Buy One Get One,0.37
+34,2023-08-20,2023-08-26,16500,870,85,42,49,390,34,330,1320,560,410,0.33,3.20,Adults,Frequent Buyers,Neutral,Moderate,Free Shipping,0.38
+35,2023-08-27,2023-09-02,14200,770,77,38,46,365,31,310,1250,510,380,0.31,3.00,Seniors,Occasional Buyers,Positive,High,Discounts,0.39
+36,2023-09-03,2023-09-09,15200,820,81,41,48,380,33,320,1300,540,390,0.32,3.10,Adults,Frequent Buyers,Positive,Low,Buy One Get One,0.40
+37,2023-09-10,2023-09-16,13700,750,75,38,45,355,31,305,1220,500,370,0.30,2.90,Young Adults,Occasional Buyers,Positive,Moderate,Free Shipping,0.41
+38,2023-09-17,2023-09-23,14700,800,80,39,46,370,32,315,1270,530,380,0.31,3.00,Adults,Frequent Buyers,Neutral,High,Discounts,0.42
+39,2023-09-24,2023-09-30,16200,860,84,42,49,385,33,328,1320,550,400,0.32,3.20,Seniors,Occasional Buyers,Positive,Moderate,Buy One Get One,0.43
+40,2023-10-01,2023-10-07,13900,760,76,37,44,360,30,300,1180,480,370,0.30,2.95,Young Adults,Frequent Buyers,Positive,Low,Free Shipping,0.44
+41,2023-10-08,2023-10-14,14900,800,80,38,45,375,32,310,1250,520,390,0.31,3.00,Adults,Occasional Buyers,Neutral,Moderate,Discounts,0.45
+42,2023-10-15,2023-10-21,16400,860,85,41,48,390,34,325,1300,550,410,0.33,3.20,Seniors,Frequent Buyers,Positive,High,Buy One Get One,0.46
+43,2023-10-22,2023-10-28,14100,770,77,39,46,365,31,300,1200,500,380,0.31,3.00,Adults,Occasional Buyers,Positive,Low,Free Shipping,0.47
+44,2023-10-29,2023-11-04,15100,820,81,40,47,380,33,312,1250,530,390,0.32,3.10,Young Adults,Frequent Buyers,Neutral,Moderate,Discounts,0.48
+45,2023-11-05,2023-11-11,16600,870,85,42,49,395,34,330,1320,560,410,0.33,3.20,Adults,Occasional Buyers,Positive,High,Free Shipping,0.49
+46,2023-11-12,2023-11-18,14300,780,78,38,45,370,31,305,1220,510,380,0.31,3.00,Seniors,Frequent Buyers,Positive,Moderate,Buy One Get One,0.50
+47,2023-11-19,2023-11-25,15300,830,82,40,47,385,32,315,1270,540,400,0.32,3.10,Adults,Occasional Buyers,Neutral,Low,Discounts,0.51
+48,2023-11-26,2023-12-02,13800,750,75,37,44,360,31,300,1180,480,370,0.30,2.95,Young Adults,Frequent Buyers,Positive,Moderate,Free Shipping,0.52
+49,2023-12-03,2023-12-09,14800,800,80,38,45,375,32,310,1250,520,390,0.31,3.00,Adults,Occasional Buyers,Positive,High,Discounts,0.53
+50,2023-12-10,2023-12-16,16300,860,85,41,48,390,34,325,1300,550,410,0.33,3.20,Seniors,Frequent Buyers,Neutral,Moderate,Buy One Get One,0.54
